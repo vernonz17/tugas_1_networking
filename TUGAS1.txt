@@ -1,0 +1,6 @@
+
+1. Open System Interconnection Layer
+2. biner
+3. 217
+4. Physical
+5. hexadecimal 
